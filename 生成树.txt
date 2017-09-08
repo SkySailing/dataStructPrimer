@@ -1,0 +1,6 @@
+树的知识：
+
+生成生成树算法：
+https://baike.baidu.com/item/%E7%94%9F%E6%88%90%E6%A0%91%E7%AE%97%E6%B3%95/21511961?fr=aladdin
+比较通俗的解释：
+https://www.2cto.com/kf/201603/496259.html
